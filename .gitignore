@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.venv
+venv/
+.DS_Store
+.ipynb_checkpoints/
+attached_assets/
+catalogue_spectra.json
+*.log
